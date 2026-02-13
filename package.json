@@ -1,6 +1,6 @@
 {
-  "name": "@t00nday/nestjs-oauth2-server",
-  "version": "0.0.4",
+  "name": "guzhavin/nestjs-oauth2-server",
+  "version": "0.0.5",
   "description": "A Nestjs wrapper for oauth2-server",
   "main": "index.js",
   "type": "module",
@@ -73,11 +73,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toondaey/nestjs-oauth2-server.git"
+    "url": "git+https://github.com/GuzhavinAleskey/nestjs-oauth2-server.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toondaey/nestjs-oauth2-server/issues"
+    "url": "https://github.com/GuzhavinAleksey/nestjs-oauth2-server/issues"
   },
   "husky": {
     "hooks": {
@@ -85,7 +85,7 @@
       "pre-commit": "lint-staged"
     }
   },
-  "homepage": "https://github.com/toondaey/nestjs-oauth2-server#readme",
+  "homepage": "https://github.com/GuzhavinAleksey/nestjs-oauth2-server#readme",
   "publishConfig": {
     "access": "public"
   }
